@@ -1,0 +1,14 @@
+{
+  "name": "duplicatenumber",
+  "version": "1.0.0",
+  "description": "duplicate number problem ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Evan Greer",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  }
+}
